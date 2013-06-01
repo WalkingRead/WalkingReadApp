@@ -4,5 +4,8 @@
     <string name="app_name">Walking Read</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_news">Noticias</string>
+    <string name="title_activity_users">Usuarios</string>
+    <string name="title_activity_reports">Incidencias</string>
 
 </resources>

@@ -22,6 +22,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.server.walkingread.News"
+            android:label="@string/title_activity_news" >
+        </activity>
+        <activity
+            android:name="com.server.walkingread.Users"
+            android:label="@string/title_activity_users" >
+        </activity>
+        <activity
+            android:name="com.server.walkingread.Reports"
+            android:label="@string/title_activity_reports" >
+        </activity>
     </application>
 
 </manifest>
