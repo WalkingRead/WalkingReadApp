@@ -1,0 +1,24 @@
+PESTAÑA PRINCIAL
+
+
+
+PESTAÑA PERFIL
+Ver su perfil.
+Modificar sus personajes (solo por ahora).
+Obtener la contraseña del servidor.
+
+***** pedir confirmación para modificar o pedir clave servidor *****
+
+PESTAÑA INCIDENCIAS
+Categoria: spinner - INCIDENCIA (MUERTE PVE - FALTA RESPETO - INTRUSO - USO DE HACK - OTROS) - SUGERENCIA - PROBLEMAS REGISTRO
+	SubCategoria: si es incidencia
+Asunto: 
+Descripción:
+Adjutar imagen/archivo (opcional):
+
+Se inserta en la base de datos y se envia correo a los administradores.
+
+
+PESTAÑA HISTORIAL INCIDENCIAS
+Solo puede ver sus incidencias sus incidencias abiertas o cerradas.
+
